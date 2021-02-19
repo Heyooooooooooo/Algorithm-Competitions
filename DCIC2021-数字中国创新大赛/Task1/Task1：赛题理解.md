@@ -5,8 +5,9 @@
 - 学习成果：比赛baseline提交
 
 ## 初试成绩
+如下图：
 ![](../pic/成绩.JPG)
 
 ## 参考
 
-[DCIC2021学习课程：大数据挖掘](https://coggle.club/learn/dcic2021/task1)
+1. [DCIC2021学习课程：大数据挖掘](https://coggle.club/learn/dcic2021/task1)
