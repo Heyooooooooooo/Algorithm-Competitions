@@ -6,7 +6,7 @@
 
 ## 初试成绩
 如下图：
-![](../pic/成绩.JPG)
+![成绩](https://github.com/Heyooooooooooo/Algorithm-Competitions/blob/main/DCIC2021-%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B/pic/%E6%88%90%E7%BB%A9.JPG)
 
 ## 参考
 
