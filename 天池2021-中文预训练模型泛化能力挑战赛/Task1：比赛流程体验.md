@@ -167,13 +167,13 @@ docker push [自己仓库的地址]:[镜像版本号]
 
 提交界面如下：
 
-![提交界面](D:%5CStudy%5CPostgraduate%5CWork%5C%E6%AF%94%E8%B5%9B%5Cmulti_task_nlp%5Cpic%5C%E6%8F%90%E4%BA%A4%E7%95%8C%E9%9D%A2.jpg)
+![提交界面](./pic/提交界面.jpg)
 
 #### 3.2 成绩
 
 初试成绩如下：
 
-![初试成绩](D:%5CStudy%5CPostgraduate%5CWork%5C%E6%AF%94%E8%B5%9B%5Cmulti_task_nlp%5Cpic%5C%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9.jpg)
+![初试成绩](./pic/初始成绩.jpg)
 
 ## 致谢
 
