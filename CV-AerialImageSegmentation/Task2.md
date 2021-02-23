@@ -98,3 +98,13 @@ trfm = A.Compose([
 于是，可以运用A.Compose([op],p=0.5)在尾部加上概率，保证原图的数量。
 或者通过减少增强操作，来保证原图数量，比如baseline中的增强操作步骤还是比较少的，因此能有不错的效果。
 或者可以选用A.OneOf([op],p=0.5)来组合操作，也可以在Compose中套Compose，在有效保证鲁棒性的同时，也避免了过度偏离原始数据（原图）。
+
+## 致谢
+
+感谢 @[Datawhale](https://github.com/datawhalechina) 制作的课程与分享的学习资料！
+
+## 参考
+
+1. [Datawhale学习教程](https://github.com/datawhalechina/team-learning-cv/blob/master/AerialImageSegmentation/Task2%EF%BC%9A%E6%95%B0%E6%8D%AE%E6%89%A9%E5%A2%9E%E6%96%B9%E6%B3%95.md)
+2. [学习爱好者：菊头蝙蝠的分享](https://blog.csdn.net/qq_21539375/article/details/113943166)
+
